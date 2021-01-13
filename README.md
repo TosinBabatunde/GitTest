@@ -12,6 +12,8 @@ Example data science portfolio
 
 * (Salary by Position)
 
+![](https://github.com/TosinBabatunde/GitTest/blob/main/GitTest%20Images/salary_by_job_title.png)
+
 ![](/GitTest%20Images/practice%20image%201.png)
 
 # [Project 2: Data Science Salary Estimator](https://github.com/PlayingNumbers/ds_salary_proj)
