@@ -16,6 +16,6 @@ Example data science portfolio
 
 ![](Images/salary_by_job_title.png "Salary by Position")
 
-* Seccond Image (Correlation Visual)
+* Second Image (Correlation Visual)
 
-![](Images/correlation_visual.png "Correlation Visual")
+![](/Images/correlation_visual.png)
