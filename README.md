@@ -10,5 +10,5 @@ Example data science portfolio
 * Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model. 
 * Built a client facing API using flask 
 
-# [Project 2: Data Science Salary Estimator]: Overview(https://github.com/PlayingNumbers/ds_salary_proj)
+# [Project 2: Data Science Salary Estimator](https://github.com/PlayingNumbers/ds_salary_proj)
 * Just more practicing 
