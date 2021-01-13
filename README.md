@@ -12,3 +12,4 @@ Example data science portfolio
 
 # [Project 2: Data Science Salary Estimator](https://github.com/PlayingNumbers/ds_salary_proj)
 * Just more practicing 
+!(https://github.com/PlayingNumbers/ds_salary_proj/blob/master/salary_by_job_title.PNG "Salary by Position")
