@@ -19,4 +19,4 @@ Example data science portfolio
 
 * Second Image (Correlation Visual)
 
-![](/Images/correlation_visual.png)
+![](/GitTest%20Images/correlation_visual.png)
