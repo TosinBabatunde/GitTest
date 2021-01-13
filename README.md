@@ -12,10 +12,10 @@ Example data science portfolio
 
 # [Project 2: Data Science Salary Estimator](https://github.com/PlayingNumbers/ds_salary_proj)
 * Just more practicing 
+* (Salary by Position)
 
 ![](https://github.com/TosinBabatunde/GitTest/blob/main/GitTest%20Images/salary_by_job_title.png "Salary by Position")
 
-* Seccond Image
-*why is this in italics?
+* Seccond Image (Correlation Visual)
 
 ![](https://github.com/TosinBabatunde/GitTest/blob/main/GitTest%20Images/correlation_visual.png "Correlation Visual")
