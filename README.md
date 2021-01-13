@@ -14,8 +14,8 @@ Example data science portfolio
 * Just more practicing 
 * (Salary by Position)
 
-![](https://github.com/TosinBabatunde/GitTest/blob/main/GitTest%20Images/salary_by_job_title.png "Salary by Position")
+![](Images/salary_by_job_title.png "Salary by Position")
 
 * Seccond Image (Correlation Visual)
 
-![](https://github.com/TosinBabatunde/GitTest/blob/main/GitTest%20Images/correlation_visual.png "Correlation Visual")
+![](Images/correlation_visual.png "Correlation Visual")
