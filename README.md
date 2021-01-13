@@ -15,3 +15,7 @@ Example data science portfolio
 
 ![](https://github.com/TosinBabatunde/GitTest/blob/main/GitTest%20Images/salary_by_job_title.png "Salary by Position")
 
+* Seccond Image
+*why is this in italics?
+
+![](https://github.com/TosinBabatunde/GitTest/blob/main/GitTest%20Images/correlation_visual.png "Correlation Visual")
